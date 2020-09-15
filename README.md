@@ -10,9 +10,8 @@ Simple Login UI
 
 
 
-Plants app UI
+Sample Login UI
 
-![alt text](https://github.com/shriasi/AdobeXDUIdesigns/blob/master/PlantStore.png)
-
+![alt text](https://github.com/shriasi/AdobeXDUIdesigns/blob/master/Theme.png)
 
 Many More to come!
